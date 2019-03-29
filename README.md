@@ -1,4 +1,4 @@
-# 965.happy
+# 965.icu
 
 “965” 工作制，即每天早 9 点到岗，一直工作到晚上 6 点。每周工作 40 天。
 
@@ -34,8 +34,6 @@
 ## 965 相关公司
 
  - [ThoughtWorks](https://www.thoughtworks.com/) 欢迎来简历：h@phodal.com
-
-## LICENSE
 
 License
 ---
