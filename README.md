@@ -34,6 +34,7 @@
 ## 965 相关公司
 
  - [ThoughtWorks](https://www.thoughtworks.com/) 欢迎来简历：h@phodal.com
+ - [RightCapital](https://join.rightcapital.com/) 欢迎来简历：junyao.bai@rightcapital.com
 
 License
 ---
